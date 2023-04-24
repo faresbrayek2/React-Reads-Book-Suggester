@@ -32,16 +32,16 @@
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/faresbrayek/ktob.git
-cd ktob
+git clone https://github.com/faresbrayek/React-Reads-Book-Suggester.git
+cd React-Reads-Book-Suggester
 npm install
 npm start
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
-git clone https://github.com/faresbrayek/ktob.git
-cd ktob
+git clone https://github.com/faresbrayek/React-Reads-Book-Suggester.git
+cd React-Reads-Book-Suggester
 npm install
 npm start
 ```
